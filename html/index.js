@@ -16,3 +16,6 @@
     function igen3() {
       alert('Bruh! Remélem ez már az utolsó, szégyen')
     };
+    function azta() {
+      alert('Ez csak egy jól kinéző gomb/funkció, semmi más');      
+    }
