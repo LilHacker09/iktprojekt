@@ -1,6 +1,7 @@
 body{
    background-image: url(../img/backgorund.png);
     color: black;
+    background-repeat: repeat;
 }
 hr{
    border-radius: 0%;
